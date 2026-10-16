@@ -16,7 +16,7 @@ Flackle badges are achievements that show up on your profile. They are given out
 
 | Title           | Badge                                                       | Obtainable? | Earned by                                                                                                                                                                         |
 | --------------- | ----------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Early Supporter | <img src="/assets/early-supporter.png" width="32" height="32"> | ✅ (for now) | Joining Flackle during the beta. Obtainable until "Probably a little after we're out of Closed Beta, maybe longer after though, we'll see" (straight from the Flackle team). |
+| Early Supporter | <img src="/assets/early-supporter.png" width="32" height="32"> | ✅ (for now) | Buying a Flackle Beyond subscription before the cutoff. Obtainable until "Probably a little after we're out of Closed Beta, maybe longer after though, we'll see" (straight from the Flackle team). |
 | Flackle Beyond  | <img src="/assets/beyond.png" width="32" height="32">  | ✅          | Having an active Flackle Beyond subscription (Flackle's version of Nitro).                                                                                                       |
 
 ## Badge Change Log
